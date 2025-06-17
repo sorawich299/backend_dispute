@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pandas
+openpyxl
+patool
+aiofiles
+jinja2
+httpx
+pytest
+pytest-asyncio
+python-multipart
+passlib[bcrypt]
